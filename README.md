@@ -1,4 +1,4 @@
-# StudyHub 📚
+# StudyHub 
 ### Study Group Finder & Collaboration Platform
 *Diploma Project — Computer Science*
 
@@ -75,14 +75,3 @@ Then open http://127.0.0.1:8000 in your browser.
 | Review | Rating + comment left after a session |
 | Message | Chat message in a group (stored via WebSocket) |
 
----
-
-## Next Steps
-1. Build HTML templates (group list, group detail, profile pages)
-2. Add user registration/login views
-3. Add group create/join/leave views
-4. Add session scheduling views
-5. Build real-time chat UI
-6. Add file upload for resources
-7. Style with Tailwind CSS or Bootstrap
-8. Deploy to Railway or Render
